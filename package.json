@@ -1,0 +1,11 @@
+{
+  "name": "hueandmusic",
+  "version": "0.0.1",
+  "description": "An app to detect the status of a Hue light then decide what music to play",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Davies",
+  "license": "ISC"
+}
