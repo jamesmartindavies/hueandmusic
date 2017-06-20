@@ -9,6 +9,8 @@
   "author": "James Davies",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.18.1"
+    "http": "0.0.0",
+    "moment": "^2.18.1",
+    "request": "^2.81.0"
   }
 }
